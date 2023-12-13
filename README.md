@@ -4,7 +4,7 @@ Stock device | only with printed z-axiss stabilizator(/w printed bearing) and li
 Highly recomanded to use 7mm washer to make distance between nozzle and ptfe bowden <br>
 material PETG 1,75 CZE PM filament <br>
 Temperature 230|80 (hotend|hotbed) <br>
-Retraction 6,5mm|40mm/s <br>
+Retraction 6,5mm|47mm/s <br>
 Z-offset -1,44mm <br>
 Printing speed 50mm/s (27mm/s first 3 layers) <br>
 Flow correction 0,94% <br>
